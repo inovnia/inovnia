@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="logo.png" alt"image" >
+<img src="logo.png" alt="image" >
 <!--
 **inovnia/inovnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
