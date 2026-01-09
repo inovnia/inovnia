@@ -1,5 +1,7 @@
 ## Hi there 👋
 <img src="logo.png" alt="image" >
+<h3>Experiences:</h3>
+<img src="https://skillicons.dev/icons?i=js,py,vscode,wordpress,html,htmx,php,css,github,react,notion,nextjs,npm,nodejs,figma&perline=5"  alt=Experiences">
 <!--
 **inovnia/inovnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
