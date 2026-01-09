@@ -1,5 +1,5 @@
 ## Hi there 👋
-<imag surc="Black and Yellow Creative Agency Logo (360 x 150 px) (291 x 89 px) (250 x 250 px)" alt"image" >
+<img src="Black and Yellow Creative Agency Logo (360 x 150 px) (291 x 89 px) (250 x 250 px)" alt"image" >
 <!--
 **inovnia/inovnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
