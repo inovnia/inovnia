@@ -5,10 +5,10 @@
 <img src="https://skillicons.dev/icons?i=js,py,vscode,wordpress,html,htmx,php,css,github,react,notion,nextjs,npm,nodejs,figma&perline=5"  alt=Experiences">
 <!--
 <div align="center">
-  <h1>Sonia Sabet</h1>
-  <p><strong>IT Support & Networking Specialist • Aspiring Web Developer</strong></p>
+<h1>Sonia Sabet</h1>
+<p><strong>IT Support & Networking Specialist • Aspiring Web Developer</strong></p>
 
-  <p>
+ <p>
     <a href="[LinkedIn URL]">LinkedIn</a> •
     <a href="[Portfolio URL or Website]">Portfolio</a> •
     <a href="mailto:[your-email@example.com]">Email</a>
