@@ -1,4 +1,4 @@
-## who I am ?
+## Who I am ?
 ## Sonia Sabet
 <img src="logo.png" alt="image" >
 <h3>Technical Skills:</h3>
