@@ -1,7 +1,9 @@
 <div align="center">
-<img src="Sonia.PIC.jpeg" alt="image" width="200" >
-<h3> Who I am ?</h3>
+ <h3> Who I am ?</h3>
 <h3>Sonia Sabet</h3>
+ 
+<img src="Sonia.PIC.jpeg" alt="image" width="200" >
+
 <h3>Technical Skills:</h3>
 <img src="https://skillicons.dev/icons?i=js,py,vscode,wordpress,html,htmx,php,css,github,react,notion,nextjs,npm,nodejs,figma&perline=5"  alt=Experiences">
 <div align="center">
