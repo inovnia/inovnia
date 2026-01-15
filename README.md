@@ -1,7 +1,7 @@
 ## Who I am ?
 ## Sonia Sabet
 <div align="center">
-<img src="logo.png" alt="image" >
+<img src="sonia.PiC.jpge" alt="image" >
 <h3>Technical Skills:</h3>
 <img src="https://skillicons.dev/icons?i=js,py,vscode,wordpress,html,htmx,php,css,github,react,notion,nextjs,npm,nodejs,figma&perline=5"  alt=Experiences">
 <div align="center">
