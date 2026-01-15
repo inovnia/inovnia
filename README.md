@@ -6,7 +6,7 @@
 <!--
 <div align="center">
 <h1>Sonia Sabet</h1>
-<p><strong>IT Support & Networking Specialist • Aspiring Web Developer</strong></p>
+<p><strong> IT Support & Networking Specialist • Aspiring Web Developer</strong></p>
 
  <p>
     <a href="[LinkedIn URL]">LinkedIn</a> •
