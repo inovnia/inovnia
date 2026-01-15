@@ -12,9 +12,9 @@
 <p><strong> IT Support & Networking Specialist • Aspiring Web Developer</strong></p>
 
  <p>
-    <a href="[LinkedIn URL]">LinkedIn</a> •
-    <a href="[Portfolio URL or Website]">Portfolio</a> •
-    <a href="mailto:[your-email@example.com]">Email</a>
+    <a href="[[LinkedIn URL](https://www.linkedin.com/in/sonia-sabet/)]">LinkedIn</a> •
+    <a href="[www.inovnia.com]">Website</a> •
+    <a href="mailto:[sonia.sabet@gmail.com.com]">Email</a>
   </p>
 
   <p>
