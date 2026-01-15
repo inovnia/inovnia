@@ -12,9 +12,9 @@
 <p><strong> IT Support & Networking Specialist • Aspiring Web Developer</strong></p>
 
  <p>
-    <a href="(https://www.linkedin.com/in/sonia-sabet/)">LinkedIn</a> •
-    <a href="(https://inovnia.com/)">Website</a> •
-    <a href="mailto:(sonia.sabet@gmail.com)">Email</a>
+    <a href="https://www.linkedin.com/in/sonia-sabet/">LinkedIn</a> •
+    <a href="https://inovnia.com/">Website</a> •
+    <a href="mailto:sonia.sabet@gmail.com">Email</a>
   </p>
 
   <p>
