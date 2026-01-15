@@ -13,7 +13,7 @@
 
  <p>
     <a href="[https://www.linkedin.com/in/sonia-sabet/]">LinkedIn</a> •
-    <a href="[www.inovnia.com]">Website</a> •
+    <a href="[https://inovnia.com/]">Website</a> •
     <a href="mailto:[sonia.sabet@gmail.com]">Email</a>
   </p>
 
