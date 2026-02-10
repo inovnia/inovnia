@@ -2,7 +2,6 @@
  <h3> Who I am ?</h3>
 <h3>Sonia Sabet</h3>
  
-<img src="IMG_1313.JPG" alt="image" width="200" >
 <img src="IMG_1495.PNG" alt="image" width="200" >
 
 <h3>Technical Skills:</h3>
