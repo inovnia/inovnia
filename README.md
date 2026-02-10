@@ -1,24 +1,22 @@
 <div align="center">
- <h3> Who I am ?</h3>
-<h3>Sonia Sabet</h3>
- 
-<img src="IMG_1495.PNG" alt="image" width="200" >
+  <img src="IMG_1495.PNG" alt="Sonia Sabet" width="160" style="border-radius: 50%;" />
 
-<h3>Technical Skills:</h3>
-<img src="https://skillicons.dev/icons?i=js,py,vscode,wordpress,html,htmx,php,css,github,react,notion,nextjs,npm,nodejs,figma&perline=5"  alt=Experiences">
-<div align="center">
-<h1>Sonia Sabet</h1>
-<p><strong> IT Support & Networking Specialist • Aspiring Web Developer</strong></p>
+  <h1>Sonia Sabet</h1>
+  <p><strong>IT Support & Networking Specialist | Junior Web Developer (Aspiring)</strong></p>
 
- <p>
+  <p>
     <a href="https://www.linkedin.com/in/sonia-sabet/">LinkedIn</a> •
     <a href="https://inovnia.com/">Website</a> •
-    <a href="mailto:sonia.sabet@gmail.com">Email</a>
+    <a href="mailto:sonia.sabet@gmail.com">sonia.sabet@gmail.com</a>
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/Location-Ottawa%2C%20ON-blue" alt="Location" />
     <img src="https://img.shields.io/badge/Open%20to-Junior%20Web%20Developer%20%7C%20Application%20Support-success" alt="Open to roles" />
+  </p>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,py,github,nodejs,vscode&perline=9" alt="Tech Stack" />
   </p>
 </div>
 
@@ -26,50 +24,70 @@
 
 <h2>About Me</h2>
 <p>
-  I’m a technical professional with a background in IT support, networking, and system administration,
-  now focused on building web applications and automation tools. I enjoy troubleshooting, improving workflows,
-  and turning real-world requirements into practical solutions.
+  I’m an IT support and networking specialist transitioning into web development. I build small React apps and Python automation
+  scripts to solve real workflow problems. I enjoy troubleshooting, clean documentation, and turning requirements into practical tools.
 </p>
 
-<h2>What I’m Working On</h2>
+<h2>Core Skills</h2>
 <ul>
-  <li>Building small web apps with <strong>React</strong>, <strong>JavaScript</strong>, <strong>HTML/CSS</strong></li>
-  <li>Writing <strong>Python</strong> scripts for automation and data cleanup</li>
-  <li>Improving my Git workflow and documenting projects clearly</li>
+  <li><strong>Web Development:</strong> HTML, CSS, JavaScript, React, Next.js (foundational), Responsive UI</li>
+  <li><strong>Automation / Scripting:</strong> Python (utilities, data cleanup, workflow automation)</li>
+  <li><strong>Tools:</strong> Git/GitHub, VS Code, REST basics, Figma basics</li>
+  <li><strong>IT & Networking:</strong> Windows/Linux, Active Directory, Microsoft 365, VLAN/VPN, System Administration fundamentals</li>
 </ul>
 
-<h2>Skills</h2>
-<ul>
-  <li><strong>Web:</strong> HTML, CSS, JavaScript, React (basic), Responsive Design</li>
-  <li><strong>Scripting:</strong> Python (automation, utilities)</li>
-  <li><strong>Tools:</strong> Git/GitHub, VS Code, REST basics</li>
-  <li><strong>IT Foundation:</strong> Windows/Linux, Active Directory, Microsoft 365, Networking (VLAN/VPN)</li>
-</ul>
+<h2>Featured Projects</h2>
 
-<h2>Highlighted Projects</h2>
+<h3>1) Ticket Helper Dashboard (React)</h3>
+<p>
+  A lightweight dashboard to log and track support requests with filtering and status management.
+</p>
 <ul>
-  <li>
-    <strong>[Project Name 1]</strong> – [1 line description].<br/>
-    <a href="[Repo link]">Repository</a> • <a href="[Live demo link]">Live Demo</a>
-  </li>
-  <li>
-    <strong>[Project Name 2]</strong> – [1 line description].<br/>
-    <a href="[Repo link]">Repository</a> • <a href="[Live demo link]">Live Demo</a>
-  </li>
-  <li>
-    <strong>[Project Name 3]</strong> – [1 line description].<br/>
-    <a href="[Repo link]">Repository</a> • <a href="[Live demo link]">Live Demo</a>
-  </li>
+  <li>Create, update, and close tickets (stored locally)</li>
+  <li>Search & filter by status/priority</li>
+  <li>Clean UI with reusable components</li>
 </ul>
+<p>
+  <strong>Tech:</strong> React, JavaScript, CSS, LocalStorage<br/>
+  <a href="[REPO_LINK_1]">Repository</a> • <a href="[LIVE_DEMO_LINK_1]">Live Demo</a>
+</p>
+
+<h3>2) Log & CSV Cleaner (Python)</h3>
+<p>
+  A Python utility that cleans messy CSV/log data, removes duplicates, and outputs a structured report.
+</p>
+<ul>
+  <li>Detects invalid rows and standardizes formats</li>
+  <li>Removes duplicates and generates summary stats</li>
+  <li>Exports a clean file ready for analysis</li>
+</ul>
+<p>
+  <strong>Tech:</strong> Python<br/>
+  <a href="[REPO_LINK_2]">Repository</a>
+</p>
+
+<h3>3) Personal Portfolio (Next.js)</h3>
+<p>
+  A fast, responsive portfolio website showcasing projects and contact info.
+</p>
+<ul>
+  <li>Project cards with clear descriptions and links</li>
+  <li>Mobile-first layout and basic SEO</li>
+  <li>Simple structure that’s easy to maintain</li>
+</ul>
+<p>
+  <strong>Tech:</strong> Next.js, JavaScript, HTML/CSS<br/>
+  <a href="[REPO_LINK_3]">Repository</a> • <a href="https://inovnia.com/">Live Site</a>
+</p>
+
+<hr/>
 
 <h2>How I Work</h2>
 <ul>
-  <li>Clear documentation and readable code</li>
-  <li>Practical problem-solving and steady improvements</li>
+  <li>Write clear, maintainable code with practical structure</li>
+  <li>Document projects with clean READMEs and step-by-step setup</li>
   <li>Comfortable collaborating with technical and non-technical teams</li>
 </ul>
-
-<hr/>
 
 <p align="center">
   <em>Always learning, building, and improving.</em>
