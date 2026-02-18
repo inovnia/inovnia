@@ -68,7 +68,7 @@
 </ul>
 <p>
   <strong>Tech:</strong> React, JavaScript, CSS, LocalStorage<br/>
-  <a href="https://github.com/inovnia/ticket-helper-dashboard">Repository</a> • <a href="[LIVE_DEMO_LINK_1]">Live Demo</a>
+  <a href="https://github.com/inovnia/ticket-helper-dashboard">Repository</a> 
 </p>
 
 <h3>2) Log & CSV Cleaner (Python)</h3>
