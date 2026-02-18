@@ -80,6 +80,20 @@
   <a href="[REPO_LINK_3]">Repository</a> • <a href="https://inovnia.com/">Live Site</a>
 </p>
 
+<h3>4) Live Switcher Dashboard (React + Node.js)</h3>
+<p>
+  A real-time switcher control demo that simulates live production workflows using a React frontend and a WebSocket backend.
+</p>
+<ul>
+  <li>Displays and syncs current <code>Program</code> and <code>Preview</code> states</li>
+  <li>Supports switching actions: <code>PVW</code>, <code>CUT</code>, <code>TAKE</code>, and <code>AUTO</code></li>
+  <li>Streams live audio meter updates across connected clients</li>
+</ul>
+<p>
+  <strong>Tech:</strong> React, TypeScript, Node.js, WebSocket, CSS<br/>
+  <a href="https://github.com/inovnia/live-switcher-dashboard">Repository</a>
+</p>
+
 <hr/>
 
 <h2>How I Work</h2>
