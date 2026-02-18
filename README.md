@@ -66,6 +66,20 @@
   <a href="https://github.com/inovnia/Log-CSV-Cleaner">Repository</a>
 </p>
 
+<h3>3) Life Admin (Private Project)</h3>
+<p>
+  A personal document management app built with React Native, Expo, and Supabase to securely store important records and track expiry reminders.
+</p>
+<ul>
+  <li>Save and organize personal documents by category</li>
+  <li>Track expiry dates and view upcoming renewals</li>
+  <li>Private in-progress project; source code is not shared yet</li>
+</ul>
+<p>
+  <strong>Tech:</strong> React Native, Expo, TypeScript, Supabase<br/>
+  <em>Repository is private (in progress)</em>
+</p>
+
 <h3>4) Live Switcher Dashboard (React + Node.js)</h3>
 <p>
   A real-time switcher control demo that simulates live production workflows using a React frontend and a WebSocket backend.
