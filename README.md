@@ -94,6 +94,20 @@
   <a href="https://github.com/inovnia/live-switcher-dashboard">Repository</a>
 </p>
 
+<h3>5) Python Network Scanner</h3>
+<p>
+  A multithreaded Python CLI tool for scanning hosts and TCP ports on local networks.
+</p>
+<ul>
+  <li>Scans single hosts, IP ranges, and CIDR blocks</li>
+  <li>Supports custom ports, timeouts, worker threads, and optional ping-first discovery</li>
+  <li>Provides both text and JSON output formats</li>
+</ul>
+<p>
+  <strong>Tech:</strong> Python, Networking, CLI<br/>
+  <a href="https://github.com/inovnia/python-network-scanner">Repository</a>
+</p>
+
 <hr/>
 
 <h2>How I Work</h2>
