@@ -2,7 +2,7 @@
   <img src="IMG_1495.PNG" alt="Sonia Sabet" width="160" style="border-radius: 50%;" />
 
   <h1>Sonia Sabet</h1>
-  <p><strong>IT Support & Networking Specialist | Junior Web Developer (Aspiring)</strong></p>
+  <p><strong>Network & System Administrator | Web and Software Developer (Entry-Level)</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/sonia-sabet/">LinkedIn</a> •
@@ -12,7 +12,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Location-Ottawa%2C%20ON-blue" alt="Location" />
-    <img src="https://img.shields.io/badge/Open%20to-Junior%20Web%20Developer%20%7C%20Application%20Support-success" alt="Open to roles" />
+    <img src="https://img.shields.io/badge/Open%20to-Software%20Developer%20%7C%20Web%20Developer%20%7C%20Network%2FSystem%20Admin-success" alt="Open to roles" />
   </p>
 
   <p>
@@ -24,16 +24,35 @@
 
 <h2>About Me</h2>
 <p>
-  I'm an IT support and networking specialist transitioning into web development. I build small React apps and Python automation
-  scripts to solve real workflow problems. I enjoy troubleshooting, clean documentation, and turning requirements into practical tools.
+  I'm an IT support and networking specialist expanding into software and web development. I build practical tools using React, Node.js,
+  and Python, and I enjoy solving real workflow problems with clean, reliable implementation. My background combines troubleshooting,
+  systems thinking, documentation, and collaboration across technical and non-technical teams.
 </p>
 
 <h2>Core Skills</h2>
 <ul>
-  <li><strong>Web Development:</strong> HTML, CSS, JavaScript, React, Next.js (foundational), Responsive UI</li>
-  <li><strong>Automation / Scripting:</strong> Python (utilities, data cleanup, workflow automation)</li>
-  <li><strong>Tools:</strong> Git/GitHub, VS Code, REST basics, Figma basics</li>
-  <li><strong>IT & Networking:</strong> Windows/Linux, Active Directory, Microsoft 365, VLAN/VPN, System Administration fundamentals</li>
+  <li><strong>Software / Web Development:</strong> JavaScript, TypeScript, React, Node.js, HTML/CSS, REST basics</li>
+  <li><strong>Automation / Scripting:</strong> Python (CLI utilities, data cleanup, workflow automation)</li>
+  <li><strong>Testing & Quality:</strong> Debugging, QA mindset, validation and reliability checks</li>
+  <li><strong>IT, Systems & Networking:</strong> Windows/Linux, Active Directory, Microsoft 365, VLAN/VPN, system administration fundamentals</li>
+  <li><strong>Tools:</strong> Git/GitHub, VS Code, documentation and structured troubleshooting</li>
+</ul>
+
+<h2>Target Roles</h2>
+<ul>
+  <li>Software Developer (Entry-Level / Internship / Co-op)</li>
+  <li>Web Developer (Frontend or Full Stack Junior roles)</li>
+  <li>Network Administrator</li>
+  <li>System Administrator</li>
+</ul>
+
+<h2>Experience Highlights</h2>
+<ul>
+  <li>Built and shipped multiple hands-on projects across web apps, real-time systems, and networking tools</li>
+  <li>Developed user-focused interfaces and backend logic with attention to stability and maintainability</li>
+  <li>Applied testing and debugging practices to improve code quality and reduce production issues</li>
+  <li>Worked with networking concepts, host/port scanning, and system-level troubleshooting workflows</li>
+  <li>Created clean project documentation and clear setup instructions to support collaboration</li>
 </ul>
 
 <h2>Featured Projects</h2>
