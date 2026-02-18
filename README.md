@@ -66,20 +66,6 @@
   <a href="https://github.com/inovnia/Log-CSV-Cleaner">Repository</a>
 </p>
 
-<h3>3) Personal Portfolio (Next.js)</h3>
-<p>
-  A fast, responsive portfolio website showcasing projects and contact info.
-</p>
-<ul>
-  <li>Project cards with clear descriptions and links</li>
-  <li>Mobile-first layout and basic SEO</li>
-  <li>Simple structure that's easy to maintain</li>
-</ul>
-<p>
-  <strong>Tech:</strong> Next.js, JavaScript, HTML/CSS<br/>
-  <a href="[REPO_LINK_3]">Repository</a> • <a href="https://inovnia.com/">Live Site</a>
-</p>
-
 <h3>4) Live Switcher Dashboard (React + Node.js)</h3>
 <p>
   A real-time switcher control demo that simulates live production workflows using a React frontend and a WebSocket backend.
