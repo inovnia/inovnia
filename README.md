@@ -24,7 +24,7 @@
 
 <h2>About Me</h2>
 <p>
-  I’m an IT support and networking specialist transitioning into web development. I build small React apps and Python automation
+  I'm an IT support and networking specialist transitioning into web development. I build small React apps and Python automation
   scripts to solve real workflow problems. I enjoy troubleshooting, clean documentation, and turning requirements into practical tools.
 </p>
 
@@ -73,7 +73,7 @@
 <ul>
   <li>Project cards with clear descriptions and links</li>
   <li>Mobile-first layout and basic SEO</li>
-  <li>Simple structure that’s easy to maintain</li>
+  <li>Simple structure that's easy to maintain</li>
 </ul>
 <p>
   <strong>Tech:</strong> Next.js, JavaScript, HTML/CSS<br/>
@@ -91,4 +91,4 @@
 
 <p align="center">
   <em>Always learning, building, and improving.</em>
-</p>. 
+</p>
