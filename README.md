@@ -54,16 +54,16 @@
 
 <h3>2) Log & CSV Cleaner (Python)</h3>
 <p>
-  A Python utility that cleans messy CSV/log data, removes duplicates, and outputs a structured report.
+  A Python CLI utility to clean messy log and CSV files so they are ready for analysis or sharing.
 </p>
 <ul>
-  <li>Detects invalid rows and standardizes formats</li>
-  <li>Removes duplicates and generates summary stats</li>
-  <li>Exports a clean file ready for analysis</li>
+  <li>Cleans log files by removing blank/duplicate lines and filtering by log level</li>
+  <li>Supports keyword-based exclusion for noisy log entries</li>
+  <li>Cleans CSV files by trimming cells, removing empty rows, and optional row deduplication</li>
 </ul>
 <p>
   <strong>Tech:</strong> Python<br/>
-  <a href="[REPO_LINK_2]">Repository</a>
+  <a href="https://github.com/inovnia/Log-CSV-Cleaner">Repository</a>
 </p>
 
 <h3>3) Personal Portfolio (Next.js)</h3>
